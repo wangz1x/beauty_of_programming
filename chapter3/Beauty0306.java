@@ -69,10 +69,10 @@ public class Beauty0306 {
         }
         return res;
     }
-
+    static class Node {
+        Node next;
+    }
 
 }
 
-class Node {
-    Node next;
-}
+
